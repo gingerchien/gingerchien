@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/gingerchien?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/gingerchien/https://github.com/gingerchien/FinRL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gingerchien&repo=https://github.com/gingerchien/FinRL&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 ### Support Me
 
