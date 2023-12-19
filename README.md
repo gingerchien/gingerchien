@@ -14,7 +14,7 @@ I am a solar renewables electrical engineer turned machine learning engineer. My
 * ⚡  I have 6 cats: Niki, Arthur, Edward, Alphonse, Dabao, and Xiaobao. I work to keep them fed.
 
 <a href="https://www.github.com/gingerchien" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gingerchien?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/gingerchien?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -32,13 +32,13 @@ src="https://img.shields.io/github/followers/gingerchien?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gingerchien"><img src="https://github-readme-stats.vercel.app/api?username=gingerchien&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="gingerchien's GitHub stats" /></a>
+<a href="http://www.github.com/gingerchien"><img src="https://github-readme-stats.vercel.app/api?username=gingerchien&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="gingerchien's GitHub stats" /></a>
 
-<a href="http://www.github.com/gingerchien"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchien&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/gingerchien"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gingerchien&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/gingerchien"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gingerchien&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/gingerchien"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gingerchien&bg_color=22272e&color=ffffff&line=3382ed&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/gingerchien" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchien&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gingerchien" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingerchien&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
