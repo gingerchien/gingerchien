@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer/ Quant Trader
 ---------------------------------------
 
-I am a solar renewables electrical engineer turned machine learning engineer. My passion is trading the financial markets particularly in futures and options. I am currently enrolled in Georgia Tech Online Master of Science in Computer Science program with an anticipated graduation date of May 2024. In the past few years, I have been honing my quant skills with learning various algorithmic and quant trading strategies which I will continually share and update here.
+I am a solar renewables electrical engineer turned machine learning engineer. My passion is trading the financial markets particularly in futures and options. I am currently enrolled in Georgia Tech Online Master of Science in Computer Science program with an anticipated graduation date of August 2024. In the past few years, I have been honing my quant skills with learning various algorithmic and quant trading strategies which I will continually share and update here.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/ginger-chien-pe-4806b333/)
